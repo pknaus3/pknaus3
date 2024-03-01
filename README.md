@@ -10,7 +10,7 @@
   
 ##### Feel free to copy my .dotfiles, do you have any suggestions? Let me know, I'll be always glad to improve them
 ----
-I'm only pushing stable changes to my .files
+> I'm only pushing stable changes to my .files
 Software I'm using to maintain my dotfiles is called [chezmoi](https://chezmoi.io), should be compatible with any UNIX platform
 
 <!--
