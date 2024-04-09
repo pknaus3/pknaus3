@@ -6,7 +6,8 @@ DevSecOps | Infrastructure | Futurist
 
 * 🌍  I'm based in Slovakia
 * ✉️  You can contact me at [peterknaus@knausweb.com](mailto:peterknaus@knausweb.com)
-* 🚀  I'm currently working on [Exlink](http://exlink.com)
+* 🚀  I'm currently working on [Exlink](https://exlink.com)
+* 🧠  I'm learning NeoVim
 
 ### Skills
 
