@@ -25,7 +25,5 @@ Developer | Infrastructure | Futurist | Data Analyst
 
 <b>My GitHub Stats - Removed due work on private repositories which will not be displayed</b>
 
-<a href="https://github.com/pknaus3" align="left" float="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pknaus3&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
-<img float="left" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"></img>
+<a href="https://github.com/pknaus3" align="left" style="float:right;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pknaus3&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<img style="float:left;" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"></img>
