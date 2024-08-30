@@ -7,7 +7,7 @@ Developer | Infrastructure | Futurist | Data Analyst
 * 🌍  I'm based in Slovakia
 * ✉️  You can contact me at [peter@knaus-development.com](mailto:peter@knaus-development.com)
 * 🚀  I'm currently working on [Exlink](https://exlink.com)
-* 🧠  I'm learning NeoVim
+* 🧠  I'm learning Gin - Web framework (go/golang)
 
 [![committers.top badge](https://user-badge.committers.top/slovakia_private/pknaus3.svg)](https://user-badge.committers.top/slovakia_private/pknaus3)
 
