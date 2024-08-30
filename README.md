@@ -8,6 +8,8 @@ Developer | Infrastructure | Futurist | Data Analyst
 * ✉️  You can contact me at [peterknaus@knausweb.com](mailto:peterknaus@knausweb.com)
 * 🚀  I'm currently working on [Exlink](https://exlink.com)
 * 🧠  I'm learning NeoVim
+[![committers.top badge](https://user-badge.committers.top/slovakia_private/pknaus3.svg)](https://user-badge.committers.top/slovakia_private/pknaus3)
+
 
 ### Skills
 
