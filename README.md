@@ -5,7 +5,7 @@ Developer | Infrastructure | Futurist | Data Analyst
 -----------------------------------------------------
 
 * 🌍  I'm based in Slovakia
-* ✉️  You can contact me at [peter@knaus-development.com](mailto:peter@knaus-development.com)
+* ✉️  You can contact me at [peter@knaus.io](mailto:peter@knaus.io)
 * 🚀  I'm currently working on [Exlink](https://exlink.com)
 * 🧠  I'm learning Actix_web - (RUST)
 
