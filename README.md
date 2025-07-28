@@ -9,7 +9,7 @@ Developer | Infrastructure | Futurist | Data Analyst
 * 🚀  I'm currently working on [Exlink](https://exlink.com)
 * 🧠  Working on imposant things
 
-[![committers.top badge](https://user-badge.committers.top/slovakia_private/pknaus3.svg)](https://user-badge.committers.top/slovakia_private/pknaus3)
+[![committers.top badge](https://user-badge.committers.top/slovakia_private/USERNAME.svg)](https://user-badge.committers.top/slovakia_private/USERNAME)
 
 ## My primary stack
 <p align="left">
